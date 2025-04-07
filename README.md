@@ -27,8 +27,3 @@ An intelligent resume creation tool that automates content generation with AI, o
 ▶ Google Generative AI  
 ▶ Hostinger Deployment  
 
-## 🚀 Quick Start
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/AI-Resume-Builder.git
