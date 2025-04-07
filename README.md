@@ -1,10 +1,34 @@
-![React AI Resume Builder](https://github.com/rrs301/AI-Resume-Builder/assets/20216436/0a78231c-754e-4f2e-94b0-ae9474cbf613)
+# AI Resume Builder 🤖📄
 
-# React + Vite
+An intelligent resume creation tool that automates content generation with AI, offers real-time editing, and exports polished PDFs. Perfect for job seekers and recruiters.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Highlights
 
-Currently, two official plugins are available:
+- **AI-Powered Content**: Automatically generates professional summaries & bullet points
+- **Smart Templates**: 10+ modern designs with customizable color schemes
+- **One-Click Export**: Download as PDF or share via link
+- **Cloud Sync**: Securely save resumes with version history
+- **Multi-Account Support**: Separate interfaces for job seekers & recruiters
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+
+**Frontend**  
+▶ React 18 + Vite  
+▶ Tailwind CSS + Framer Motion  
+▶ React Hook Form + Tiptap Editor  
+
+**Backend**  
+▶ Strapi (Node.js/Express)  
+▶ REST API with JWT Auth  
+▶ MongoDB Atlas  
+
+**Services**  
+▶ Clerk Authentication  
+▶ Google Generative AI  
+▶ Hostinger Deployment  
+
+## 🚀 Quick Start
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/AI-Resume-Builder.git
